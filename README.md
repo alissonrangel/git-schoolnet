@@ -25,3 +25,8 @@
 - git log --since=2.minutes
 - git log --since=20.minutes
 - git log --since=2.days
+
+### gitignore
+
+### 
+- git restore --staged teste2.txt => para voltar para untracked (to unstage)
